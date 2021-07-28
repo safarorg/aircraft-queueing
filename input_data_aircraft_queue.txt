@@ -1,0 +1,13 @@
+2 small runways, 3 medium runways, and 1 large runway
+Aircraft: 400,000 pounds, 212 passengers
+Aircraft: 100,000 pounds, 55 passengers
+Aircraft: 100,000 pounds, 25 passengers
+Aircraft: 100,000 pounds, 95 passengers
+Aircraft: 100,000 pounds, 115 passengers
+Aircraft: 250,000 pounds, 121 passengers
+Aircraft: 600,000 pounds, 15 passengers
+Aircraft: 300,000 pounds, 155 passengers
+Aircraft: 600,000 pounds, 225 passengers
+Aircraft: 100,000 pounds, 95 passengers
+Aircraft: 100,000 pounds, 116 passengers
+Aircraft: 250,000 pounds, 3 passengers
